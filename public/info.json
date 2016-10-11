@@ -1,0 +1,45 @@
+{
+  "records": [
+    {
+      "Name": "Sagar Ratna",
+      "Image": "./images/sr.jpg",
+      "Address": "Mohali",
+      "Type": "South Indian",
+      "Hours" : "10:00-23:30"
+    },
+    {
+      "Name": "The Night Factory",
+      "Image": "./images/nf.jpg",
+      "Address": "Chandigarh",
+      "Type": "South Indian",
+      "Hours" : "24/7"
+    },
+    {
+      "Name": "Whistling Duck",
+      "Image": "./images/ed.jpg",
+      "Address": "Rajpura",
+      "Type": "Chinese",
+      "Hours" : "11:30-23:30"
+    },
+    {
+      "Name": "Uncle Jacks",
+      "Image": "./images/uj.jpg",
+      "Address": "Mohali",
+      "Type": "Chinese",
+      "Hours" : "10:00-22:30"
+    },
+    {
+      "Name": "Corner Griller",
+      "Image": "./images/cg.jpg",
+      "Address": "Rajpura",
+      "Type": "North Indian",
+      "Hours" : "11:00-23:30"
+    },    {
+      "Name": "Starbucks",
+      "Image": "./images/st.jpg",
+      "Address": "Delhi",
+      "Type": "Coffee",
+      "Hours" : "24/7"
+    }
+  ]
+}

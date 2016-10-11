@@ -1,0 +1,46 @@
+{
+  "reviews": [
+    {
+      "Name": "Sagar Ratna",
+      "Reviewer": "Jaskaran",
+      "Comments": "Great service, healthy food!",
+      "Date": "25th Sept. 2016",
+      "Rating" : "4"
+    },
+    {
+      "Name": "The Night Factory",
+      "Reviewer": "Pawandeep",
+      "Comments": "Nice location, ok service!",
+      "Date": "29th Sept. 2016",
+      "Rating" : "3.5"
+    },
+    {
+      "Name": "Whistling Duck",
+      "Reviewer": "Simran",
+      "Comments": "Excellent food and dining",
+      "Date": "1st Oct. 2016",
+      "Rating" : "5"
+    },
+    {
+      "Name": "Uncle Jacks",
+      "Reviewer": "Harman Singh",
+      "Comments": "Poor service!",
+      "Date": "28th Sept. 2016",
+      "Rating" : "2"
+    },
+    {
+      "Name": "Corner Griller",
+      "Reviewer": "Jackqulin",
+      "Comments": "Good and affordable!",
+      "Date": "20th Sept. 2016",
+      "Rating" : "3.5"
+    },
+    {
+      "Name": "Starbucks",
+      "Reviewer": "Yamini",
+      "Comments": "Best coffee ever!",
+      "Date": "4th Oct. 2016",
+      "Rating" : "5"
+    }
+  ]
+}
